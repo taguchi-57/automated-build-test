@@ -1,2 +1,2 @@
-1 FROM dockersamples/static-site
+FROM centos
 
